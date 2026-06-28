@@ -87,8 +87,18 @@ See `outputs/dashboard_story.md`. In short: sales are seasonally stable, not dec
 - Small amounts of missing data in `customer_rating` (0.8%) and `campaign_channel` (0.6%), excluded rather than imputed.
 
 ## Screenshots Included
-- `screenshots\full_dashboard.png` — complete executive dashboard
-- `screenshots\sales_trend_view.png` — sales trend chart
-- `screenshots\regional_performance_view.png` — regional/state performance
-- `screenshots\category_profitability_view.png` — category/sub-category profitability
-- `screenshots\filter_interaction_view.png` — evidence of filter/action interaction
+
+### Full Dashboard
+![Full Executive Dashboard](screenshots/full_dashboard.png)
+
+### Sales Trend
+![Sales Trend View](screenshots/sales_trend_view.png)
+
+### Regional Performance
+![Regional Performance View](screenshots/regional_performance_view.png)
+
+### Category Profitability
+![Category Profitability View](screenshots/category_profitability_view.png)
+
+### Filter Interaction
+![Filter Interaction View](screenshots/filter_interaction_view.png)
